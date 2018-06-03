@@ -1,5 +1,5 @@
 class Vehicle
-  class Vehicle
+  
 
   attr_accessor :wheel_size, :wheel_number
 
@@ -16,6 +16,6 @@ class Vehicle
     "filling up!"
   end
 
-end
+
 
 end
